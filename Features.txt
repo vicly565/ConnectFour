@@ -1,0 +1,11 @@
+1. Functional Decomposition: Use methods (a.k.a., functions) to break up a large program into meaningful chunks, using input to and output from those functions where appropriate.
+
+2. Looping with Repetition Control Structures: Use two of the following structures: for, while, do/while, foreach.
+
+3. Nested Loops: Use a loop within a loop in your program. Note that this is automatically accomplished when using Multi-Dimensional Arrays.
+
+4. Branching with Selection Control Structures: Use multiple (i.e., more than one) if/else and/or switch statements in your code. (You don't need to use both kinds of statements. if/else means any kind of if/else statement.)
+
+5. Multi-Dimensional Arrays: Make use of an array with a dimensionality greater than one.
+
+6. Variable Tracing and Testing: Include a method(s) that can be used to provide output for tracing variables for the purpose of testing whether your code is working. The method(s) should be called test-something, e.g., testStatistics. Somewhere in your program, there should be a call to that method(s). In the code you submit, that call should be commented out, but I should be able to find it.
